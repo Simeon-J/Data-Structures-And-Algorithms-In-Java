@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter01-Java_Primer/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/demosadef/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter02-Object-Oriented-Design/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter03-Fundamental_Data_Structures/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter04-Algorithm_Analysis/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter05-Recursion/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter06-Stacks-Queues-and-Deques/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter07-List-and-Iterator-ADTs/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter08-Trees/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter09-Priority-Queues/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter10-Maps-Hash-Tables-and-Skip-Lists/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter11-Search-Trees/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter12-Sorting-and-Selection/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter13-Text-Processing/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter14-Graph-Algorithms/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter15-Memory-Management-and-B-Trees/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

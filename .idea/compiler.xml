@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Chapter07-List-and-Iterator-ADTs" />
+        <module name="Chapter14-Graph-Algorithms" />
+        <module name="Chapter03-Fundamental_Data_Structures" />
+        <module name="Chapter05-Recursion" />
+        <module name="Chapter09-Priority-Queues" />
+        <module name="Chapter12-Sorting-and-Selection" />
+        <module name="Chapter13-Text-Processing" />
+        <module name="Chapter08-Trees" />
+        <module name="Chapter01-Java_Primer" />
+        <module name="Chapter15-Memory-Management-and-B-Trees" />
+        <module name="Chapter10-Maps-Hash-Tables-and-Skip-Lists" />
+        <module name="Chapter02-Object-Oriented-Design" />
+        <module name="Chapter06-Stacks-Queues-and-Deques" />
+        <module name="Chapter11-Search-Trees" />
+        <module name="Chapter04-Algorithm_Analysis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="17" />
+      <module name="demosadef" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
